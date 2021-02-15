@@ -1,0 +1,3 @@
+# Combining-Highlight-Re-moval-and-Lowlight-Image-Enhancement-Technique-for-HDR-like-Image-Generation-
+There are some teqniques to enhance images. But if the image has saturated area, we will have loss information in this areas when we enhance our image. This project provides to remove the saturated areas. I made this project with reference to article [1].  [1] Saha, Rappy &amp; Banik, Partha &amp; Sen Gupta, Shantanu &amp; Kim, Ki-Doo. (2020). Combining Highlight Removal and Low-light Image Enhancement Technique for HDR-like Image Generation. IET Image Processing. 14. 10.1049/iet-ipr.2019.1099.
+This project has written on MATLAB
